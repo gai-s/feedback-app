@@ -10,7 +10,7 @@ function FeedbackList() {
     const {feedback, isLoading} = useContext(FeedbackContext)
     if ( !isLoading && (!feedback || feedback.length===0)){
         console.log(feedback)
-        return <><Spinner/><p>No Feedbacks yet!</p></>
+        return <><p>No Feedbacks yet!</p><Spinner/></>
     }
     return (isLoading ? <Spinner/> : (
         <div className='feedback-list'>
