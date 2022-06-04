@@ -8,7 +8,7 @@ function Header({text, sub_text}) {
       <div className="container">
           <h2>{text}</h2>
           <h2>{sub_text}
-          <img src={Logo} alt="logo app image" 
+          <img src={Logo} alt="logo app" 
           style={{width:"50px", display:"inline-block", float:"left", margin:"0px"}}/>
           </h2>
           
