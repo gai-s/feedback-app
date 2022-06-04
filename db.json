@@ -1,0 +1,24 @@
+{
+  "feedback": [
+    {
+      "id": 1,
+      "rating": 1,
+      "text": "You look very pretty, in a certain light..."
+    },
+    {
+      "rating": 2,
+      "text": "We women, just love a sincere men, who tell us what we think...",
+      "id": 7
+    },
+    {
+      "rating": 3,
+      "text": "Tell him I was too fucking busy, or vise versa",
+      "id": 8
+    },
+    {
+      "rating": 4,
+      "text": "writing - the art of applying the ass to the seat...",
+      "id": 9
+    }
+  ]
+}
